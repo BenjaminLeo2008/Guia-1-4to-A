@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class Calculos : MonoBehaviour
 {
-    public float num1 = 10f;
-    public float num2 = 32f;
+    public float num1;
+    public float num2;
     public float resultado;
 
 
